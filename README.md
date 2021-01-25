@@ -21,7 +21,7 @@ By clicking on the Button **"Change Algorythm"**, the software will swap its alg
 But how to **change the speed** of the animation?
 You can do that by sliding the slider at the top and you can even **zoom in** or **zoom out**! (when in start-mode)
 
-You can even generate **complex labyrinths** by clicking the button "create complex labyrinth", provided the software is in start-mode.
+You can even generate **complex labyrinths** by clicking the button "create complex labyrinth", provided the software is in start-mode or in config-mode.
 
 
 Have Fun! :)
