@@ -1,6 +1,6 @@
 # pathfinder
 
-This is a **visualization** of the two most popular pathfinding algorythms in the world: BFS-Search and A*-Search.
+This is a **visualization** of the two most popular pathfinding algorythms in the world today: BFS-Search and A*-Search.
 It runs in python with the framework QT. 
 
 # Get started
